@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "205042334936",
+    "project_id": "qixer-20a27",
+    "storage_bucket": "qixer-20a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205042334936:android:84d64efbd3bc34fd4b2bad",
+        "android_client_info": {
+          "package_name": "com.qixer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205042334936-va974l9n1n63nv5jjuih7gqmquvith3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qixer.app",
+            "certificate_hash": "6bcce48d491e775a0596cc33bba731e29833a5ca"
+          }
+        },
+        {
+          "client_id": "205042334936-ap9ippue4v404nvuf5k1slpftbcctmt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd-_-eqI_IR05HuJ1giH14pw-lJSMUYXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205042334936-ap9ippue4v404nvuf5k1slpftbcctmt2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "205042334936-3ddg5c7d76negb1idlqm1ofcf416bo88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qixerios.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:provider/provider.dart';
+import 'package:qixer/service/app_string_service.dart'
 import 'package:qixer/view/utils/constant_colors.dart';
 
 //===========================>
